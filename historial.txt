@@ -1,0 +1,20 @@
+    1  ls
+    2  ls -l
+    3  ls -la
+    4  ls
+    5  ls -a
+    6  man ls
+    7  pdw
+    8  pwd
+    9  whoami
+   10  echo "hola"
+   11  cat README 
+   12  sd repogit/
+   13  cd repogit/
+   14  ls
+   15  git clone https://github.com/Loon04/Repo_Gonzalez_Pineda.git
+   16  ls
+   17  cd Repo_Gonzalez_Pineda/
+   18  ls
+   19  history
+   20  history > historial.txt
